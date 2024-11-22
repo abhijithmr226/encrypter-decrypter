@@ -1,6 +1,5 @@
 Encrypter & Decrypter
 
-![Encrypter & Decrypter Preview](https://ibb.co/fDrhZbX)
 A user-friendly web application to encrypt and decrypt text securely. Built with modern web technologies, this tool ensures efficient text encoding and decoding with customizable settings.
 
 🌟 Features
@@ -13,3 +12,8 @@ Visit the live preview: Encrypter & Decrypter.
 Enter the text you want to encrypt in the input field.
 Click on the Encrypt button to generate the encoded text.
 To decode, paste the encrypted text and click on Decrypt.
+
+**VISIT DEMO WEBSITE:** https://tinyurl.com/abhisencrypter-decrypter
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repository and submit a pull request with enhancements.
